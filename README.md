@@ -2,4 +2,5 @@
 
 Bom dia, boa tarde e boa noite.
 
-Esse é um repositório dedicado aos laboratórios da disciplina de Computação 1 (MAE).
+Esse é um repositório dedicado aos laboratórios da disciplina de Computação 1 (MAE) - UFRJ.
+
